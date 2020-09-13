@@ -1,0 +1,75 @@
+*
+{
+    margin: 0;
+}
+
+.nome
+{
+    background-color: grey;
+    text-align: center;
+    font-size: 28px ;
+    font-family: 'Lucida Sans';
+    padding: 14px;
+}
+
+.navegador
+{
+    background-color: crimson;
+    font-size: 18px ;
+    font-family: 'Lucida Sans';
+
+}
+
+.cabecalho
+{
+    text-align: center;
+    background-color: coral;
+    font-size: 20px;
+    font-family: 'arial';
+    padding: 190px;
+}
+
+.redes_sociais, a
+{
+    text-align: center;
+    background-color: darkslategray;
+    color: black;
+    font-family: arial;
+    padding: 2em ;
+}
+
+.direitos
+{
+    background-color: black;
+    color: white;
+    font-family: arial;
+    padding: 2em;
+    text-align: center;
+}
+
+ul, li, .navegador
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+    float: left; 
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
